@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is the second chapter
 lsdjflkjal;sdjflsjdf
+=======
+this is the second chapteasdfasdfasdfr
+>>>>>>> star
